@@ -1,5 +1,5 @@
 {
-  "name": "31-libuv-sleep-sort",
+* "name": "31-libuv-sleep-sort",
   "version": "1.0.0",
   "description": "Demo for libuv sleep sort.",
   "main": "build/Release/sleep.node",
@@ -17,3 +17,4 @@
     "nan": "^2.6.2"
   }
 }
+ 
