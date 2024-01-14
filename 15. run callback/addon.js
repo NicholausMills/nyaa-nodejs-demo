@@ -1,5 +1,5 @@
 /**
- * XadillaX <i@2333.moe> created at 2017-06-06 22:16:19 with ❤
+** XadillaX <i@2333.moe> created at 2017-06-06 22:16:19 with ❤
  *
  * Copyright (c) 2017 xcoder.in, all rights reserved.
  */
@@ -14,3 +14,4 @@ module.exports = function(callback) {
 
     addon(callback);
 };
+ 
